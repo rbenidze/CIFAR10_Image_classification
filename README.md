@@ -76,9 +76,7 @@ This helps improve evaluation robustness.
 ## Files
 
 - `cifar10_resnet.ipynb` — main notebook with training and evaluation
-- `best_resnet_cifar10.pt` — best model from initial training
-- `best_resnet_cifar10_ft.pt` — best model after fine-tuning
-- `best_resnet_cifar10_polish.pt` — best model after final polish phase
+
 
 ## Dataset
 
